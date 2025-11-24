@@ -1,0 +1,8 @@
+# Root env
+.env
+
+# Frontend env
+bitly/bitly/.env.local
+
+# Node modules
+node_modules/
